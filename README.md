@@ -1,1 +1,1 @@
-# society-mgmt-react
+# society-mgmt-react app
