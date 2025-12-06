@@ -1,1 +1,1 @@
-# society-mgmt-react application
+# society-mgmt-react application latest
